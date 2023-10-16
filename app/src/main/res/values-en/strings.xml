@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="tvTitleMessage">Write a message:</string>
+    <string name="tvUserInfoText">Show user information</string>
+    <string name="tvMessageText">"The message information "</string>
+    <string name="menu_about" translatable="false">About us</string>
+    <string name="menu_nmodulo">Student module DEINT</string>
+    <string name="menu_nautor">Author</string>
+</resources>
