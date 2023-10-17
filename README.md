@@ -182,5 +182,10 @@ protected void onStart() {
 En la carpeta layout hay que crear una activity (land)
 En este ejemplo es activity_send_message.xml(land) y para esta activity creamos su interfaz en horizontal
 
+## Screenshots
 
-
+|                              |                              | 
+| ---------------------------- | ---------------------------- | 
+|![foto1](https://github.com/nikitenkokatya/SendMessageViewBinding/assets/145988774/aa64305f-2fb7-40fb-aa9f-2166e7ceb665) | ![foto2](https://github.com/nikitenkokatya/SendMessageViewBinding/assets/145988774/1186ede0-b928-4613-abe4-c50754366717) |
+|                              |                              | 
+|![foto3](https://github.com/nikitenkokatya/SendMessageViewBinding/assets/145988774/7659cbb3-9757-4608-bbdb-16ae6298108d)|![foto4](https://github.com/nikitenkokatya/SendMessageViewBinding/assets/145988774/85f1eb99-8bf3-4225-b1dc-14c14258afa2)|
