@@ -101,7 +101,7 @@ Es el estilo para modo claro, tambien hay otro archivo de themes.xml(night) para
 ```
 
 ### Crear binding y el evento OnClick()
-*** Ejemplo ***
+***Ejemplo***
 ```html
  private ActivitySendMessageBinding binding;
 
@@ -182,7 +182,7 @@ protected void onStart() {
 En la carpeta layout hay que crear una activity (land)
 En este ejemplo es activity_send_message.xml(land) y para esta activity creamos su interfaz en horizontal
 
-## Screenshots
+### Screenshots
 
 |                              |                              | 
 | ---------------------------- | ---------------------------- | 
